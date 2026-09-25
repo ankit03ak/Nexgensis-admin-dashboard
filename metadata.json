@@ -1,0 +1,6 @@
+{
+  "name": "Product Admin Dashboard",
+  "description": "Production-ready Product Admin Dashboard with authentication, CRUD operations, debounced search, filtering, sorting, pagination, and DummyJSON integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
